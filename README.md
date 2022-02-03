@@ -3,9 +3,9 @@
 Converter of units can convert values from any unit of length, weight, or temperature to any other appropriate unit.
 
 ## How to run
-```
-$ java -jar main.jar
-```
+Compile ``` $ kotlinc main.kt -include-runtime -d main.jar ```
+
+Start ``` $ java -jar main.jar ```
 
 ## Example 
 ```
